@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/language.xsd" languagecode="de">
+	<category name="wcf.uztracker">
+		<item name="wcf.uztracker.config.uzshoEntry"><![CDATA[Schaufenster-Einträge]]></item>
+		<item name="wcf.uztracker.header.type.uzsho"><![CDATA[Schaufenster]]></item>
+		<item name="wcf.uztracker.type.uzsho"><![CDATA[Schaufenster]]></item>
+		
+		<item name="wcf.uztracker.description.show.entry.add"><![CDATA[Eintrag erstellt]]></item>
+		<item name="wcf.uztracker.description.show.entry.addDisabled"><![CDATA[Eintrag erstellt (deaktiviert)]]></item>
+		<item name="wcf.uztracker.description.show.entry.delete"><![CDATA[Eintrag endgültig gelöscht]]></item>
+		<item name="wcf.uztracker.description.show.entry.disable"><![CDATA[Eintrag deaktiviert]]></item>
+		<item name="wcf.uztracker.description.show.entry.enable"><![CDATA[Eintrag aktiviert]]></item>
+		<item name="wcf.uztracker.description.show.entry.restore"><![CDATA[Eintrag wiederhergestellt]]></item>
+		<item name="wcf.uztracker.description.show.entry.setAsFeatured"><![CDATA[Eintrag empfohlen]]></item>
+		<item name="wcf.uztracker.description.show.entry.trash"><![CDATA[Eintrag gelöscht (Papierkorb)]]></item>
+		<item name="wcf.uztracker.description.show.entry.unsetAsFeatured"><![CDATA[Eintrag nicht mehr empfohlen]]></item>
+		<item name="wcf.uztracker.description.show.entry.update"><![CDATA[Eintrag bearbeitet]]></item>
+		
+		<item name="wcf.uztracker.page.showEntry"><![CDATA[Schaufenster-Eintrag]]></item>
+		<item name="wcf.uztracker.page.showCategoryEntryList"><![CDATA[Schaufenster-Kategorie]]></item>
+		<item name="wcf.uztracker.page.showEntryListFeed"><![CDATA[RSS Schaufenster]]></item>
+		<item name="wcf.uztracker.page.showCategoryEntryListFeed"><![CDATA[RSS Schaufenster-Kategorie]]></item>
+	</category>
+</language>
