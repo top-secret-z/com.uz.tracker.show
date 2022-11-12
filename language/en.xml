@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/2019/language.xsd" languagecode="en" languagename="English" countrycode="gb">
-	<category name="wcf.uztracker">
-		<item name="wcf.uztracker.config.uzshoEntry"><![CDATA[Display Window entries]]></item>
-		<item name="wcf.uztracker.header.type.uzsho"><![CDATA[Display Window]]></item>
-		<item name="wcf.uztracker.type.uzsho"><![CDATA[Display Window]]></item>
-		
-		<item name="wcf.uztracker.description.show.entry.add"><![CDATA[Entry created]]></item>
-		<item name="wcf.uztracker.description.show.entry.addDisabled"><![CDATA[Entry created (disabled)]]></item>
-		<item name="wcf.uztracker.description.show.entry.addDraft"><![CDATA[Entry created (draft)]]></item>
-		<item name="wcf.uztracker.description.show.entry.addLater"><![CDATA[Entry created (in future)]]></item>
-		<item name="wcf.uztracker.description.show.entry.delete"><![CDATA[Entry permanently deleted]]></item>
-		<item name="wcf.uztracker.description.show.entry.disable"><![CDATA[Entry disabled]]></item>
-		<item name="wcf.uztracker.description.show.entry.enable"><![CDATA[Entry enabled]]></item>
-		<item name="wcf.uztracker.description.show.entry.restore"><![CDATA[Entry restored]]></item>
-		<item name="wcf.uztracker.description.show.entry.setAsFeatured"><![CDATA[Entry set featured]]></item>
-		<item name="wcf.uztracker.description.show.entry.trash"><![CDATA[Entry deleted (trash bin)]]></item>
-		<item name="wcf.uztracker.description.show.entry.unsetAsFeatured"><![CDATA[Entry unset featured]]></item>
-		<item name="wcf.uztracker.description.show.entry.update"><![CDATA[Entry updated]]></item>
-		
-		<item name="wcf.uztracker.page.showEntry"><![CDATA[Display Window Entry]]></item>
-		<item name="wcf.uztracker.page.showCategoryEntryList"><![CDATA[Display Window Category]]></item>
-		<item name="wcf.uztracker.page.showEntryListFeed"><![CDATA[RSS Display Window]]></item>
-		<item name="wcf.uztracker.page.showCategoryEntryListFeed"><![CDATA[RSS Display Window Category]]></item>
-	</category>
+    <category name="wcf.uztracker">
+        <item name="wcf.uztracker.config.uzshoEntry"><![CDATA[Display Window entries]]></item>
+        <item name="wcf.uztracker.header.type.uzsho"><![CDATA[Display Window]]></item>
+        <item name="wcf.uztracker.type.uzsho"><![CDATA[Display Window]]></item>
+
+        <item name="wcf.uztracker.description.show.entry.add"><![CDATA[Entry created]]></item>
+        <item name="wcf.uztracker.description.show.entry.addDisabled"><![CDATA[Entry created (disabled)]]></item>
+        <item name="wcf.uztracker.description.show.entry.addDraft"><![CDATA[Entry created (draft)]]></item>
+        <item name="wcf.uztracker.description.show.entry.addLater"><![CDATA[Entry created (in future)]]></item>
+        <item name="wcf.uztracker.description.show.entry.delete"><![CDATA[Entry permanently deleted]]></item>
+        <item name="wcf.uztracker.description.show.entry.disable"><![CDATA[Entry disabled]]></item>
+        <item name="wcf.uztracker.description.show.entry.enable"><![CDATA[Entry enabled]]></item>
+        <item name="wcf.uztracker.description.show.entry.restore"><![CDATA[Entry restored]]></item>
+        <item name="wcf.uztracker.description.show.entry.setAsFeatured"><![CDATA[Entry set featured]]></item>
+        <item name="wcf.uztracker.description.show.entry.trash"><![CDATA[Entry deleted (trash bin)]]></item>
+        <item name="wcf.uztracker.description.show.entry.unsetAsFeatured"><![CDATA[Entry unset featured]]></item>
+        <item name="wcf.uztracker.description.show.entry.update"><![CDATA[Entry updated]]></item>
+
+        <item name="wcf.uztracker.page.showEntry"><![CDATA[Display Window Entry]]></item>
+        <item name="wcf.uztracker.page.showCategoryEntryList"><![CDATA[Display Window Category]]></item>
+        <item name="wcf.uztracker.page.showEntryListFeed"><![CDATA[RSS Display Window]]></item>
+        <item name="wcf.uztracker.page.showCategoryEntryListFeed"><![CDATA[RSS Display Window Category]]></item>
+    </category>
 </language>
